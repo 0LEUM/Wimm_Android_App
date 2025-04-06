@@ -9,13 +9,6 @@ This is a complete production ready project to learn modern Android development.
 
 Google recommends similar design
 
-# App Screenshots
-![Light](docs/screenshots/display-light.png)
-
-![Dark](docs/screenshots/display-dark.png)
-
-See More Screenshots here [SCREEN_SHOTS.md](docs/SCREEN_SHOTS.md)
-
 ## Framework
 - MVVM
 - Material Design 3
@@ -53,15 +46,6 @@ You can track your happiness level and write down daily journals. You can also s
 
 Using this app can bring a little bit of happiness and energy to live an inspired life.
 
-## Detailed Article on this project 
-Read this article to understand the project structure and concepts used:
-[Android MVVM Architecture for A Production Ready App](https://medium.com/@janishar.ali/android-mvvm-architecture-for-a-production-ready-app-2892b6dca02f)
-
-## Architecture
-![Architecture](docs/assets/arch-comp.svg)
-
-## UI Screens
-![UI-Screens](docs/assets/screen-flow.svg)
 
 ## Installation Instructions
 ```bash
@@ -101,13 +85,7 @@ Example
 - You may want to replace the `app/src/google-services.json` with your own firebase project to see the crashlytics and test notifications. Create a firebase project from here: [Firebase](https://firebase.google.com)
 - Run the Backend Project to power this App as mentioned below
 
-## Supporting Backend Project
-The backend that powers this App is also open-sourced. You can find it here: [Modern Backend Development - WhereIsMyMotivation](https://github.com/unusualcodeorg/wimm-node-app)
 
-## Find this project useful ? :heart:
-* Support it by clicking the :star: button on the upper right of this page. :v:
-
-## More on YouTube channel - Unusual Code
 Subscribe to the YouTube channel `UnusualCode` for understanding the concepts used in this project:
 
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@unusualcode)
