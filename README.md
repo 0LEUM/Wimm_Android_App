@@ -1,10 +1,6 @@
 # Android MVVM Architecture - Modern Approach
 [![Android Unit Test](https://github.com/unusualcodeorg/wimm-android-app/actions/workflows/android-unit-test.yml/badge.svg)](https://github.com/unusualcodeorg/wimm-android-app/actions/workflows/android-unit-test.yml)
 
-## WhereIsMyMotivation
-
-![Cover](docs/assets/cover.jpg)
-
 This is a complete production ready project to learn modern Android development. It adopts the latest jetpack libraries and is based on MVVM architecture. 
 
 Google recommends similar design
@@ -85,10 +81,3 @@ Example
 - You may want to replace the `app/src/google-services.json` with your own firebase project to see the crashlytics and test notifications. Create a firebase project from here: [Firebase](https://firebase.google.com)
 - Run the Backend Project to power this App as mentioned below
 
-
-Subscribe to the YouTube channel `UnusualCode` for understanding the concepts used in this project:
-
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@unusualcode)
-
-## Contribution
-Please feel free to fork it and open a PR.
